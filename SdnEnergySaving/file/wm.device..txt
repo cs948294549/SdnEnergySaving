@@ -1,0 +1,186 @@
+[
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "d6:ab:a9:f1:4c:04"
+        ],
+        "ipv4": [],
+        "vlan": [],
+        "attachmentPoint": [],
+        "lastSeen": 1489822927724
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "a2:65:b3:ce:60:6b"
+        ],
+        "ipv4": [],
+        "vlan": [],
+        "attachmentPoint": [],
+        "lastSeen": 1489822927704
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "5a:0d:73:cb:0a:a8"
+        ],
+        "ipv4": [],
+        "vlan": [],
+        "attachmentPoint": [],
+        "lastSeen": 1489825617113
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "be:5d:68:cf:35:9b"
+        ],
+        "ipv4": [],
+        "vlan": [],
+        "attachmentPoint": [],
+        "lastSeen": 1489825617111
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "ee:d4:1c:b5:42:e4"
+        ],
+        "ipv4": [
+            "10.0.0.1"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:09",
+                "port": 3,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897122
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "12:ef:fd:b5:b4:98"
+        ],
+        "ipv4": [
+            "10.0.0.2"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:09",
+                "port": 4,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897182
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "2a:05:66:8f:a6:4b"
+        ],
+        "ipv4": [
+            "10.0.0.3"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0a",
+                "port": 3,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897225
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "4a:2f:9c:91:9e:0e"
+        ],
+        "ipv4": [
+            "10.0.0.4"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0a",
+                "port": 4,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897265
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "c2:21:e1:5b:b0:2f"
+        ],
+        "ipv4": [
+            "10.0.0.7"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0c",
+                "port": 3,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897371
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "66:d6:26:12:80:86"
+        ],
+        "ipv4": [
+            "10.0.0.8"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0c",
+                "port": 4,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897372
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "36:45:58:db:1d:55"
+        ],
+        "ipv4": [
+            "10.0.0.5"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0b",
+                "port": 3,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897303
+    },
+    {
+        "entityClass": "DefaultEntityClass",
+        "mac": [
+            "76:9c:0b:4d:ea:66"
+        ],
+        "ipv4": [
+            "10.0.0.6"
+        ],
+        "vlan": [],
+        "attachmentPoint": [
+            {
+                "switchDPID": "00:00:00:00:00:00:00:0b",
+                "port": 4,
+                "errorStatus": null
+            }
+        ],
+        "lastSeen": 1489825897339
+    }
+]

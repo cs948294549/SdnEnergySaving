@@ -1,0 +1,730 @@
+{
+    "00:00:00:00:00:00:00:04": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:04",
+        "length": 176,
+        "ports": [
+            {
+                "portNumber": 1,
+                "hardwareAddress": "8a:64:ec:9a:e0:70",
+                "name": "Switch4-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "4a:d9:59:ee:0d:8c",
+                "name": "Switch4-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "aa:63:68:cb:2c:4f",
+                "name": "Switch4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:05": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:05",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "26:2a:bf:80:90:40",
+                "name": "Switch5-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "96:47:98:c6:6a:fb",
+                "name": "Switch5-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "06:63:df:f7:b7:93",
+                "name": "Switch5-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "72:1f:0a:c8:1f:a5",
+                "name": "Switch5-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "f2:9f:76:ef:10:4c",
+                "name": "Switch5",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:02": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:02",
+        "length": 176,
+        "ports": [
+            {
+                "portNumber": 1,
+                "hardwareAddress": "6a:a6:3c:44:5b:b8",
+                "name": "Switch2-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "06:56:2e:c6:af:a4",
+                "name": "Switch2-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "4e:dd:33:14:3f:49",
+                "name": "Switch2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:0b": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:0b",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "42:67:c9:62:ad:e4",
+                "name": "Switch11-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "1a:fa:8f:12:3a:9f",
+                "name": "Switch11-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "d6:ad:16:fc:90:cc",
+                "name": "Switch11-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "c6:7d:7f:52:d6:77",
+                "name": "Switch11-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "06:44:6a:26:16:40",
+                "name": "Switch11",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:03": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:03",
+        "length": 176,
+        "ports": [
+            {
+                "portNumber": 1,
+                "hardwareAddress": "96:cc:96:58:87:11",
+                "name": "Switch3-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "ea:94:ea:32:fd:2f",
+                "name": "Switch3-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "e2:47:e3:dc:8b:4f",
+                "name": "Switch3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:0c": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:0c",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "8a:da:12:18:ed:d6",
+                "name": "Switch12-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "aa:c9:8d:66:49:6f",
+                "name": "Switch12-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "d2:1a:a4:4d:6c:e9",
+                "name": "Switch12-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "62:b8:8a:77:5a:81",
+                "name": "Switch12-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "32:d6:bf:8e:8f:41",
+                "name": "Switch12",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:01": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:01",
+        "length": 176,
+        "ports": [
+            {
+                "portNumber": 1,
+                "hardwareAddress": "72:4c:0c:77:7b:82",
+                "name": "Switch1-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "2a:69:c4:bd:64:d8",
+                "name": "Switch1-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "22:0a:5f:f9:7c:4d",
+                "name": "Switch1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:0a": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:0a",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "ae:1c:ca:21:14:2c",
+                "name": "Switch10-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "9a:29:1e:8b:0c:bc",
+                "name": "Switch10-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "d6:9e:2d:78:89:58",
+                "name": "Switch10-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "9a:04:72:06:e8:07",
+                "name": "Switch10-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "ae:75:0b:27:c9:4e",
+                "name": "Switch10",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:08": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:08",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "1a:e2:c1:b6:2d:e0",
+                "name": "Switch8-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "16:1e:de:3e:98:93",
+                "name": "Switch8-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "9e:5b:8b:65:61:23",
+                "name": "Switch8-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "5a:d2:cc:75:10:82",
+                "name": "Switch8-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "6e:45:9e:f8:1d:46",
+                "name": "Switch8",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:09": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:09",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "7a:e0:78:c5:5a:09",
+                "name": "Switch9-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "a6:c2:a8:33:bf:10",
+                "name": "Switch9-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "d2:4d:56:d6:eb:9c",
+                "name": "Switch9-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "82:fe:60:f2:95:21",
+                "name": "Switch9-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "52:ab:e1:91:96:4d",
+                "name": "Switch9",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:06": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:06",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "d2:69:8f:1d:71:0d",
+                "name": "Switch6-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "92:0c:28:e0:60:bf",
+                "name": "Switch6-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "ae:b2:a4:38:77:ab",
+                "name": "Switch6-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "06:13:11:37:9e:40",
+                "name": "Switch6-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "42:fb:1d:74:a6:4a",
+                "name": "Switch6",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    },
+    "00:00:00:00:00:00:00:07": {
+        "actions": 4095,
+        "buffers": 256,
+        "capabilities": 199,
+        "datapathId": "00:00:00:00:00:00:00:07",
+        "length": 272,
+        "ports": [
+            {
+                "portNumber": 3,
+                "hardwareAddress": "c2:9e:91:e9:06:98",
+                "name": "Switch7-eth3",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 1,
+                "hardwareAddress": "12:e7:d7:9d:34:6c",
+                "name": "Switch7-eth1",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 2,
+                "hardwareAddress": "26:b1:e6:06:d4:a8",
+                "name": "Switch7-eth2",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 4,
+                "hardwareAddress": "6a:b8:b2:d6:3b:d8",
+                "name": "Switch7-eth4",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 192,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            },
+            {
+                "portNumber": 65534,
+                "hardwareAddress": "82:01:54:f5:32:4c",
+                "name": "Switch7",
+                "config": 0,
+                "state": 0,
+                "currentFeatures": 0,
+                "advertisedFeatures": 0,
+                "supportedFeatures": 0,
+                "peerFeatures": 0
+            }
+        ],
+        "tables": -2,
+        "type": "FEATURES_REPLY",
+        "version": 1,
+        "xid": 110
+    }
+}

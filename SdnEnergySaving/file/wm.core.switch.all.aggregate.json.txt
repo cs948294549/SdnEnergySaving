@@ -1,0 +1,86 @@
+{
+    "00:00:00:00:00:00:00:04": [
+        {
+            "packetCount": 0,
+            "byteCount": 0,
+            "flowCount": 0
+        }
+    ],
+    "00:00:00:00:00:00:00:05": [
+        {
+            "packetCount": 56,
+            "byteCount": 5488,
+            "flowCount": 40
+        }
+    ],
+    "00:00:00:00:00:00:00:02": [
+        {
+            "packetCount": 0,
+            "byteCount": 0,
+            "flowCount": 0
+        }
+    ],
+    "00:00:00:00:00:00:00:0b": [
+        {
+            "packetCount": 37,
+            "byteCount": 3626,
+            "flowCount": 26
+        }
+    ],
+    "00:00:00:00:00:00:00:03": [
+        {
+            "packetCount": 0,
+            "byteCount": 0,
+            "flowCount": 0
+        }
+    ],
+    "00:00:00:00:00:00:00:0c": [
+        {
+            "packetCount": 38,
+            "byteCount": 3724,
+            "flowCount": 26
+        }
+    ],
+    "00:00:00:00:00:00:00:01": [
+        {
+            "packetCount": 54,
+            "byteCount": 5292,
+            "flowCount": 32
+        }
+    ],
+    "00:00:00:00:00:00:00:0a": [
+        {
+            "packetCount": 38,
+            "byteCount": 3724,
+            "flowCount": 26
+        }
+    ],
+    "00:00:00:00:00:00:00:08": [
+        {
+            "packetCount": 0,
+            "byteCount": 0,
+            "flowCount": 0
+        }
+    ],
+    "00:00:00:00:00:00:00:09": [
+        {
+            "packetCount": 38,
+            "byteCount": 3724,
+            "flowCount": 26
+        }
+    ],
+    "00:00:00:00:00:00:00:06": [
+        {
+            "packetCount": 0,
+            "byteCount": 0,
+            "flowCount": 0
+        }
+    ],
+    "00:00:00:00:00:00:00:07": [
+        {
+            "packetCount": 71,
+            "byteCount": 6958,
+            "flowCount": 40
+        }
+    ]
+}
